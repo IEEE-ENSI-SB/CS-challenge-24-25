@@ -2,7 +2,7 @@
 
 ![Dashboard Screenshot](https://www.example.com/path-to-your-dashboard-screenshot.png)
 
-[![Watch the Demo Video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.example.com/path-to-your-dashboard-video.mp4)
+[![Watch the Demo Video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://github.com/IEEE-ENSI-SB/CS-challenge-24-25/blob/main/CS.mp4)
 
 ## Table of Contents
 
