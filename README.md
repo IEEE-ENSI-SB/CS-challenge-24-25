@@ -1,8 +1,9 @@
 # TunSecure-AI: An AutoML and Federated Learning Framework for Zero-Touch Network Anomaly Detection
 
-![Dashboard Screenshot](https://www.example.com/path-to-your-dashboard-screenshot.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/IEEE-ENSI-SB/CS-challenge-24-25/main/cappppp.png)
 
-[![Watch the Demo Video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://github.com/IEEE-ENSI-SB/CS-challenge-24-25/blob/main/CS.mp4)
+[![Watch the Demo Video](https://raw.githubusercontent.com/IEEE-ENSI-SB/CS-challenge-24-25/main/video_thumbnail.png)](https://github.com/IEEE-ENSI-SB/CS-challenge-24-25/blob/main/CS.mp4)
+
 
 ## Table of Contents
 
