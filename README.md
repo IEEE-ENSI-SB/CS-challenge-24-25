@@ -224,17 +224,17 @@ You can find these notebooks in the [**CS-challenge-24-25**](https://github.com/
 - **Aymen Masmoudi**  
   National School of Computer Science, Manouba, Tunisia  
   IEEE ENSI Student Branch, Computer Science SBC, Manouba, Tunisia  
-  [aymen.masmoudi@example.com](mailto:aymen.masmoudi@example.com)
+  [aymen.masmoudi@example.com](mailto:aymen.masmoudi@ensi-uma.tn)
 
 - **Riadh Belgacem**  
   National School of Computer Science, Manouba, Tunisia  
   IEEE ENSI Student Branch, Computer Science SBC, Manouba, Tunisia  
-  [riadh.belgacem@example.com](mailto:riadh.belgacem@example.com)
+  [riadh.belgacem@example.com](mailto:riadh.belgacem@ensi-uma.tn)
 
 - **Nour Chakroun**  
   National School of Computer Science, Manouba, Tunisia  
   IEEE ENSI Student Branch, Computer Science SBC, Manouba, Tunisia  
-  [nour.chakroun@example.com](mailto:nour.chakroun@example.com)
+  [nour.chakroun@example.com](mailto:nour.chakroun@ensi-uma.tn)
 
 ## License
 
