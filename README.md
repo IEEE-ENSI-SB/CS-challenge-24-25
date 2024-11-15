@@ -5,6 +5,7 @@
 [![Watch the Demo Video](https://raw.githubusercontent.com/IEEE-ENSI-SB/CS-challenge-24-25/main/video_thumbnail.png)](https://github.com/IEEE-ENSI-SB/CS-challenge-24-25/blob/main/CS.mp4)
 
 
+
 ## Table of Contents
 
 - [Abstract](#abstract)
